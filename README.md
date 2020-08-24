@@ -30,7 +30,7 @@
 
   ## Live Application
 
-  Access the live application [here](https://desolate-meadow-17602.herokuapp.com/).
+  Access the live application [here](https://notetakerlc.herokuapp.com/m/).
   
   ## Installation
 
