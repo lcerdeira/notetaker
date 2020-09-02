@@ -30,7 +30,7 @@
 
   ## Live Application
 
-  Access the live application [here](https://notetakerlc.herokuapp.com/m/).
+  Access the live application [here](https://notetakerlc.herokuapp.com/).
   
   ## Installation
 
